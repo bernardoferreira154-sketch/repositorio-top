@@ -70,7 +70,7 @@ function MostrarSenha() {
   );
 }
 
-// 10 + desafio: filtrar tarefas pendentes e permitir concluí-las
+// 10: filtrar tarefas pendentes e permitir concluí-las
 function ListaTarefas() {
   const [tarefas, setTarefas] = useState([
     { id: 1, texto: 'Estudar React', feita: false },
