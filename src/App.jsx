@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 
 // 1. Arrow function com template string
 const boasVindas = (nome) => `Bem-vindo(a), ${nome}!`;
